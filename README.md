@@ -1,2 +1,3 @@
 # shadabkhan
-Hi, I’m Shadab Khan Education &amp; Partnerships Leader | Social Impact Enthusiast  Driving change through education, global collaborations, and community-focused initiatives. Currently working in university partnerships and placements while aspiring to build tech-enabled schools across India and expand access to quality education.
+Hi, I’m Shadab Khan 
+Advancing personalised, adaptive learning (PAL) at the intersection of AI and digital literacy. I founded a non-profit, The Stellar Foundation (TSF), with a vision to transform how schools in India understand and deliver learning. At TSF, we believe education should recognize every child as unique — their pace, their passions, and their potential. Instead of a one-size-fits-all system, we advocate for learning models that adapt to students and support them where they are. Our mission is to make education more inclusive, personalized, and empowering for young learners. 
